@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and true relation of the examination and confession of W. Barwick and E. Mangall, of two horrid murders one committed by William Barwick upon his wife being with child, near Cawood in Yorkshire, upon the 14th. of April last: as likewise a full account how it came to be discovered by an apparition of the person murder'd. The second was committed by Edward Mangall, upon Elizabeth Johnson alias Ringrose, and her bastard child, on the 4th. of September last, who said he was tempted thereto by the devil. Also their trials and convictions before the honorable Sir John Powel, Knight, one of their Majesties Justices, at the Assizes holden at York, on the 16th. of September, 1690. October the 7. Published according to order, 1690.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84977</idno>
+            <idno type="STC">Wing F2322</idno>
+            <idno type="STC">ESTC R226746</idno>
+            <idno type="EEBO-CITATION">99895665</idno>
+            <idno type="PROQUEST">99895665</idno>
+            <idno type="VID">153233</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153233)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2355:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and true relation of the examination and confession of W. Barwick and E. Mangall, of two horrid murders one committed by William Barwick upon his wife being with child, near Cawood in Yorkshire, upon the 14th. of April last: as likewise a full account how it came to be discovered by an apparition of the person murder'd. The second was committed by Edward Mangall, upon Elizabeth Johnson alias Ringrose, and her bastard child, on the 4th. of September last, who said he was tempted thereto by the devil. Also their trials and convictions before the honorable Sir John Powel, Knight, one of their Majesties Justices, at the Assizes holden at York, on the 16th. of September, 1690. October the 7. Published according to order, 1690.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Isaac Cleave at the Star, next to Serjeants-Inn in Chancery-lane,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1690]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Apparitions --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:153233:1" rendition="simple:additions"/>
+            <head>A Full and True RELATION OF THE <hi>Examination and Confeſſion</hi> OF W. Barwick and E. Mangall, OF TWO HORRID MURDERS,</head>
+            <p>One Committed by <hi>William Barwick</hi> upon his Wife be<g ref="char:EOLhyphen"/>ing with Child, near <hi>Cawood</hi> in <hi>Yorkſhire,</hi> upon the 14th. of <hi>April</hi> laſt: As likewiſe a full Account how it came to be diſcovered by an <hi>Apparition</hi> of the Per<g ref="char:EOLhyphen"/>ſon <hi>MURDER'D.</hi>
+            </p>
+            <p>The Second was committed by <hi>Edward Mangall,</hi> upon <hi>Elizabeth Johnſon</hi> alias <hi>Ringroſe,</hi> and her <hi>Baſtard Child,</hi> on the 4th. of <hi>September</hi> laſt, who ſaid he was tempt<g ref="char:EOLhyphen"/>ed thereto by the Devil.</p>
+            <p>ALSO Their Trials and Convictions before the Honorable Sir <hi>John Powel,</hi> Knight, one of Their Majeſties Juſti<g ref="char:EOLhyphen"/>ces, at the Aſſizes holden at <hi>York,</hi> on the 16th. of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> 1690.</p>
+            <div type="license">
+               <p>
+                  <hi>October</hi> the 7. <hi>Publiſhed</hi> according to Order, 1690.</p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <p>AS <hi>M<g ref="char:V">Ʋ</g>RDER</hi> is one of the Greateſt Crimes that Man can be guilty of, ſo is it no leſs Strangely and Provi<g ref="char:EOLhyphen"/>dentially diſcovered, when private<g ref="char:EOLhyphen"/>ly committed. The foul Crimi<g ref="char:EOLhyphen"/>nal believes himſelf ſecure, becauſe there was no Witneſs of the Fact. Not conſidering that the Al<g ref="char:EOLhyphen"/>ſeeing Eye of Heaven beholds his conceal'd Iniquity, and by ſome means or other bringing it to Light, never permits it to go Unpuniſhed. And indeed ſo certainly does the Revenge of God pur<g ref="char:EOLhyphen"/>ſue the Abominated <hi>M<g ref="char:V">Ʋ</g>RDERER</hi> that when Wit<g ref="char:EOLhyphen"/>neſſes are wanting of the Fact, the very Ghoſt of the <hi>Murdered-Parties</hi> cannot reſt quiet in their Graves, till they have made the Detection them<g ref="char:EOLhyphen"/>ſelves. Of this we are now to give the Reader, Two Remarkable Examples that lately happened in <hi>York-ſhire;</hi> And no leſs Signal for the Truth of both Tragedies, as being confirmed by Trial of the Offenders, at the laſt Aſſizes held for that County.</p>
+            <p>The Firſt of theſe <hi>Murders</hi> was committed by <hi>William Barwick,</hi> upon the Body of <hi>Mary Barwick,</hi> his Wife, at the ſame time big with Child. What were the Motives that induc'd the Man to do this Horrid Fact, does not appear by the Examinati<g ref="char:EOLhyphen"/>on of the Evidence, or the Confeſſion of the Par<g ref="char:EOLhyphen"/>ty: Only it appeared upon his Trial that he had got her with Child, before he Married her: And 'tis very probable that being then conſtrained to Marry her, he grew weary of her; which was the the Reaſon he was ſo willing to be rid of her, tho'
+<pb n="2" facs="tcp:153233:2"/>he ventur'd Body and Soul to accompliſh his Deſign.</p>
+            <p>The Murder was committed upon <hi>Palm-Mon<g ref="char:EOLhyphen"/>day,</hi> being the Fourteenth of <hi>April</hi> laſt, about Two of the Clock in the Afternoon, at what time the ſaid <hi>Barwick</hi> having drill'd his Wife along till he came to a certain <hi>Cloſe,</hi> within ſight of <hi>Cawood-Caſtle,</hi> where he found the Conveniency of a Pond, he threw her by force into the Water, and when ſhe was Drown'd, and drawn forth again by him<g ref="char:EOLhyphen"/>ſelf upon the Bank of the <hi>Pond,</hi> had the Cruelty to behold the Motion of the Infant, yet warm in her Womb. This done, he conceal'd the Body, as it may readily be ſuppos'd among the Buſhes, that uſually encompaſs a <hi>Pond,</hi> and the next night, when it grew duskiſh, fetching a Hay-ſpade from a Rick that ſtood in the <hi>Cloſe,</hi> he made a Hole by the ſide of the <hi>Pond,</hi> and there ſlightly Buried the Woman in her Cloaths.</p>
+            <p>Having thus diſpatched two at once, and think<g ref="char:EOLhyphen"/>ing himſelf ſecure, becauſe (unſeen) he went the ſame day to his Brother-in-Law, one <hi>Thomas Loft<g ref="char:EOLhyphen"/>houſe</hi> of <hi>Rufforth,</hi> within Three Miles of <hi>York,</hi> who had Married his drown'd Wifes Siſter, and told him he had carried his Wife to one <hi>Richard Harriſon</hi>'s Houſe in <hi>Selby,</hi> who was his Unkle, and would take care of her. But Heaven would not be ſo deluded, but rais'd up the Ghoſt of the <hi>Murder'd</hi> Woman to make the Diſcovery. And therefore it was that upon the <hi>Eaſter-Tueſday</hi> fol<g ref="char:EOLhyphen"/>lowing, about Two of the Clock in the After<g ref="char:EOLhyphen"/>noon, the fore-mention'd <hi>Lofthouſe,</hi> having occa<g ref="char:EOLhyphen"/>ſion to Water a Quickſet Hedge, not far from his Houſe, as he was going for the Second Pail-full, an Apparition went before him in the Shape of a Woman, and ſoon after ſat down upon a Riſing Green Graſs-Plat, right over againſt the <hi>Pond:</hi> He walk'd by her as he went to the <hi>Pond;</hi> and as he return'd with his Pail from the <hi>Pond,</hi> looking ſide-ways to ſee whether ſhe continu'd in the ſame place, he found ſhe did; and that ſhe ſeem'd to Dandle ſomething in her Lap, that look'd like a White-Bag (as he thought) which he did not ob<g ref="char:EOLhyphen"/>ſerve before. So ſoon as he had emptied his Pail, he went into his Yard, and ſtood ſtill to try whe<g ref="char:EOLhyphen"/>ther he could ſee her again; but ſhe was vaniſh'd.</p>
+            <p>In his Information, he ſays, That the Wo<g ref="char:EOLhyphen"/>man ſeem'd to be habited in a Brown Colour'd Petticoat, Waſtecoat, and a White Hood; ſuch a one as his Wifes Siſter uſually wore; and that her Countenance look'd extream Pale and Wan, with her Teeth in ſight, but no Gums appearing; and that her Phyſiognomy was like to that of his Wifes Siſter, who was Wife to <hi>William Barwick.</hi>
+            </p>
+            <p>But notwithſtanding the Gaſtlineſs of this <hi>Ap<g ref="char:EOLhyphen"/>parition,</hi> it ſeems it made ſo little Impreſſion in <hi>Lofthouſe</hi>'s Mind, that he thought no more of it, neither did he ſpeak to any Body concerning it, till the ſame Night as he was at his Family Du<g ref="char:EOLhyphen"/>ty of Prayer, that that Apparition return'd again to his Thoughts, and diſcompos'd his Devotion; So that after he had made an end of his Prayers, he told the whole Story of what he had ſeen to his Wife: Who laying Circumſtances together, im<g ref="char:EOLhyphen"/>mediately inferr'd, that her Siſter was either Drown'd, or otherwiſe <hi>Murder'd,</hi> and deſir'd her Husband to look after her the next day, which was the Wedneſday in <hi>Eaſter-Week.</hi> Upon this, <hi>Lofthouſe</hi> recollecting what <hi>Barwick</hi> had told him of his carrying his Wife to his Unkle at <hi>Selby,</hi> repairs to <hi>Harriſon</hi> before-mentioned, but found all that <hi>Barwick</hi> had ſaid to be falſe; for that <hi>Har<g ref="char:EOLhyphen"/>riſon</hi> had neither heard of <hi>Barwick</hi> nor his Wife, neither did he know any thing of them. Which no<g ref="char:EOLhyphen"/>table Circumſtance, together with that other of the <hi>Apparition</hi> increas'd his Suſpicions to that degree, that now concluding his Wifes Siſter was <hi>Murder<g ref="char:EOLhyphen"/>ed,</hi> he went to the Lord Mayor of <hi>York;</hi> and having obtained his Warrant, got <hi>Barwick</hi> apprehended: who was no ſooner brought before the Lord Mayor, but his own Conſcience then accuſing him, he ac<g ref="char:EOLhyphen"/>knowledged the whole Matter, as it has been al<g ref="char:EOLhyphen"/>ready related, as it appears by his Examination and Confeſſion herewith Printed: To which are alſo annex'd the Informations of <hi>Lofthouſe,</hi> in like manner taken before the Lord Mayor of <hi>York,</hi> for a further Teſtimony and Confirmation of what is here ſet down.</p>
+            <p>On Wedneſday the Sixteenth of <hi>September</hi> 1690, The Criminal <hi>William Barwick</hi> was brought to his Trial before the Honorable Sir <hi>John Powel,</hi> Knight, one of the Judges of the <hi>Northern</hi> Circuit, at the Aſſizes holden at <hi>York,</hi> where the Priſoner plea<g ref="char:EOLhyphen"/>ded not guilty to his Indictment: But upon the Evidence of <hi>Thomas Lofthouſe,</hi> and his Wife, and a Third Perſon, That the Woman was found Bu<g ref="char:EOLhyphen"/>ried in her Cloaths in the <hi>Cloſe</hi> by the <hi>Pond-ſide,</hi> agreeable to the Priſoner's Confeſſion, and that ſhe had ſeveral Bruiſes on her Head, occaſioned by the Blows the <hi>Murderer</hi> had given her to keep her under Water: and upon Reading the Priſo<g ref="char:EOLhyphen"/>ner's Confeſſion before the Lord Mayor of <hi>York,</hi> atteſted by the <hi>Clerk,</hi> who wrote the Confeſſion, and who ſwore the Priſoner's owning and ſigning it for Truth, he was found Guilty, and Senten<g ref="char:EOLhyphen"/>ced to death, and afrerwards ordered to be hang'd in Chains.</p>
+            <p>All the Defence which the Priſoner made, was only this, That he was threatned into the Con<g ref="char:EOLhyphen"/>feſſion that he had made, and was in ſuch a Con<g ref="char:EOLhyphen"/>ſternation, that he did not know what he ſaid or did. But then it was ſworn by Two Witneſſes, that there was no ſuch thing as any Threatning made uſe of; but that he made a Free and Volun<g ref="char:EOLhyphen"/>tary Confeſſion, only with this Addition at firſt; That he told the Lord Mayor, he had ſold his Wife for Five Shillings: But not being able to name either the Perſon or the Place where ſhe might be produc'd, that was look'd upon as too frivolous to out-weigh Circumſtances, that were Proofs too apparent.</p>
+            <pb n="3" facs="tcp:153233:2"/>
+            <div type="witness_account">
+               <head>The Information of <hi>Thomas Lofthouſe,</hi> of <hi>Ruf<g ref="char:EOLhyphen"/>forth,</hi> taken upon Oath the Twentyfourth Day of <hi>April</hi> 1690,</head>
+               <p>
+                  <hi>WHO ſayeth and depoſeth, That one</hi> William Barwick, <hi>who lately Mar<g ref="char:EOLhyphen"/>ried this Informant's Wifes Siſter came to this Informant's Houſe, about the Fourteenth inſtant, and told this Informant, he had carried his Wife to one</hi> Richard Harriſon'<hi>s Houſe in</hi> Selby, <hi>who was <g ref="char:V">Ʋ</g>nkle to him, and would take care of her; and this Informant hearing nothing of the ſaid</hi> Barwick'<hi>s Wife, his ſaid Siſter-in-Law, immagined he had done her ſome miſchief, did Yeſterday go to the ſaid</hi> Harriſon'<hi>s Houſe in</hi> Selby, <hi>where he ſaid he had carried her to; And the ſaid</hi> Harriſon <hi>told this Informant, he knew nothing of the ſaid</hi> Barwick, <hi>or his Wife, and this Informant doth verily believe the ſaid</hi> Barwick <hi>to have</hi> Murdered <hi>her;</hi>
+               </p>
+               <closer>
+                  <signed>Thomas Lofthouſe.</signed> 
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Jurat die &amp; Anno ſuper dicto coram me,</hi>
+                  </p>
+                  <closer>
+                     <signed>S. Dawſon, <hi>Mayor.</hi>
+                     </signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="confession">
+               <head>The Examination of the ſaid <hi>William Bar<g ref="char:EOLhyphen"/>wick,</hi> taken the Day and Year above-ſaid,</head>
+               <p>
+                  <hi>WHO ſayeth and Confeſſeth, That he this Examinant, on Monday was Seventh Night. about Two of the Clock in the Afternoon, this Examinant was walking in a</hi> Cloſe, <hi>be<g ref="char:EOLhyphen"/>twixt</hi> Cawood <hi>and</hi> Wiſtow; <hi>and he farther ſayeth, that he threw his ſaid Wife into the</hi> Pond, <hi>where ſhe was drown'd, and the day fol<g ref="char:EOLhyphen"/>lowing towards the Evening, got a</hi> Hay-ſpade <hi>at a</hi> Hay-ſtake <hi>in the ſaid</hi> Cloſe, <hi>and made a Grave beſide the ſaid</hi> Pond, <hi>and Buried her;</hi>
+               </p>
+               <closer>
+                  <signed>William Barwick.</signed> 
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Exam. capt. die &amp; Anno ſuper dict. coram me,</hi>
+                  </p>
+                  <closer>
+                     <signed>S. Dawſon, <hi>Mayor.</hi>
+                     </signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="confession">
+               <head>The Examination of <hi>William Barwick,</hi> taken the Twenty fifth day of <hi>April</hi> 1690,</head>
+               <p>
+                  <hi>WHO ſayeth and confeſſeth, That he carried his Wife over a certain Wain-Bridge, called</hi> Biſhopdike-bridge, <hi>betwixt</hi> Cawood <hi>and</hi> Sherburn; <hi>and within a Lane a<g ref="char:EOLhyphen"/>bout One Hundred Yards from the ſaid Bridge, and on the Left-hand of the ſaid Bridge, he and his Wife went over a Stile, on the Left-hand of a certain Gate, entring into a certain</hi> Cloſe, <hi>on the Left-hand of the ſaid Lane; and in a</hi> Pond <hi>in the ſaid</hi> Cloſe, <hi>adjoyning to a</hi> Quick<g ref="char:EOLhyphen"/>wood-hedge, <hi>did Drown his Wife, and upon the Bank of the ſaid</hi> Pond, <hi>did Bury her: And further, that he was within ſight of</hi> Ca<g ref="char:EOLhyphen"/>wood Caſtle, <hi>on the Left-hand; and that there was but one Hedge betwixt the ſaid</hi> Cloſe, <hi>where he Drown'd his ſaid Wife, and the Biſhop<g ref="char:EOLhyphen"/>ſlates belonging to the ſaid</hi> Caſtle;</p>
+               <closer>
+                  <signed>William Barwick.</signed> 
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Exam. capt. die &amp; Anno ſuper dict. coram me,</hi>
+                  </p>
+                  <closer>
+                     <signed>S. Dawſon, <hi>Mayor.</hi>
+                     </signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="witness_account">
+               <head>On Tueſday <hi>September</hi> the Seventeenth 1690, at <hi>York</hi> Aſſizes.</head>
+               <p>THomas Lofthouſe <hi>of</hi> Rufforth, <hi>within Three Miles of</hi> York City, <hi>ſayeth that on</hi> Eaſter Tueſday <hi>laſt, about Half an Hour after Twelve of the Clock, in the day time, he was Watering Quickwood, and as he was going for the ſecond Pail, there appeared walking be<g ref="char:EOLhyphen"/>fore him, an</hi> Appariton <hi>in the Shape of a Wo<g ref="char:EOLhyphen"/>man, ſoon after ſhe ſat down over againſt the</hi> Pond, <hi>on a</hi> Green-Hill, <hi>he walked by her as he went to the</hi> Pond, <hi>and as he came with the Pail of Water from the</hi> Pond, <hi>looking ſide-ways to ſee if ſhe ſat in the ſame Place, which he ſaw ſhe did; and had on her Lap ſomething like a White Bag, a dandling of it (as he thought) which he did not obſerve before: After he had emptied his Pail of Water, he ſtood in his Yard, to ſee if he could ſee her again; but could not: He ſays her Apparel was Brown Cloaths, Waſte<g ref="char:EOLhyphen"/>coat and Petticoat, a White hood, ſuch as his Wifes Siſter uſually wore, and her Face looked extream Pale, her Teeth in ſight, no Gums appearing, her Viſage being like his Wifes Si<g ref="char:EOLhyphen"/>ſter, and Wife to</hi> William Barwick.</p>
+               <closer>
+                  <signed>
+                     <hi>Signed</hi> Thomas Lofthouſe.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="4" facs="tcp:153233:3"/>
+            <p>THE Second was a <hi>Murder</hi> commited by one <hi>Edward Mangall,</hi> upon the Body of <hi>Elizabeth Johnſon</hi> alias <hi>Ringroſe,</hi> the Fourth of <hi>September</hi> laſt paſt, at a Place called <hi>King's Cauſey,</hi> near <hi>Adling-fleet,</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>York.</hi> He had got her with Child, at leſt as ſhe pretended; and was brought to Bed of a Boy, which ſhe called <hi>William,</hi> and laid him to <hi>Man<g ref="char:EOLhyphen"/>gall</hi>'s Charge, and required him to Marry her: which he refuſed at firſt to do; but afterwards pre<g ref="char:EOLhyphen"/>tending to make her his Wife, bid her go before him down <hi>Kings Cauſey,</hi> towards the Church, and he would follow her, as he did; but knock'd out her <hi>Brains</hi> in a <hi>Cloſe</hi> by the Way, and at the ſame time, as was ſhrewdly ſuſpected, Kill'd the Child.</p>
+            <p>This <hi>Mangall</hi> being Examined by Mr. <hi>Wil<g ref="char:EOLhyphen"/>liam Mauleverer</hi> the <hi>Coroner</hi> confeſſed that he had <hi>Murder'd</hi> the Woman; but denied that he meddl'd with the Boy. And being ask'd why he <hi>Murder'd</hi> the Woman, he made anſwer that the Devil put him upon it; appearing to him in a <hi>Flaſh</hi> of <hi>Light<g ref="char:EOLhyphen"/>ning,</hi> and directing him where to find the <hi>Club,</hi> wherewith he committed the <hi>Murder.</hi> So ready is the Devil with his Temptations, when he find a Tempter eaſie to work upon.</p>
+            <p>He was Convicted and found Guilty upon the Evidence of <hi>Ann Hinde,</hi> and his own Confeſſion to the <hi>Coroner,</hi> as may be ſeen by the Information an<g ref="char:EOLhyphen"/>nexed; and was thereupon Sentenced to death, and order'd to be Hang'd in Chains, as <hi>Barwick</hi> was be<g ref="char:EOLhyphen"/>fore him, he making no Defence for himſelf for ſo Foul and Horrid a <hi>Murder,</hi> but that he was tempt<g ref="char:EOLhyphen"/>ed thereto by the Devil.</p>
+            <div type="witness_account">
+               <head>Informations taken upon Oath, <hi>September</hi> the <hi>10th 1690.</hi>
+               </head>
+               <div type="witness_account">
+                  <head>The Information of <hi>Ann Hinde,</hi> Wife of <hi>James Hinde,</hi> of <hi>Adling-fleet,</hi> in the County of <hi>York,</hi> Husband-man, upon her Oath ſaith;</head>
+                  <p>
+                     <hi>THat on</hi> Monday, <hi>the firſt of</hi> Septem<g ref="char:EOLhyphen"/>ber, <hi>one</hi> Elizabeth Johnſon, <hi>alias</hi> Ringroſe, <hi>came to her Houſe in the Evening, with a Child ſhe called</hi> William; <hi>and the ſaid</hi> Elizabeth <hi>the next Day told this</hi> Deponent, <hi>That the ſaid</hi> Elizabeth <hi>was going to</hi> Gaw<g ref="char:EOLhyphen"/>thrope, <hi>in the County of</hi> Lincoln, <hi>to ſeek for one</hi> Edward Mangall, <hi>who had got her with that Child, to ſee if he would Marry her: <g ref="char:V">Ʋ</g>pon which this</hi> Deponent <hi>went with the ſaid</hi> Elizabeth, <hi>to perſwade him to Marry her; but he denied having any dealings with her. But this</hi> Deponent <hi>doth further Depoſe, That on the fourth of</hi> September, <hi>the ſaid</hi> Edward <hi>came to this</hi> Deponents <hi>Houſe, and asked for the ſaid</hi> Elizabeth; <hi>if ſhe were there ſhe might ſerve a Warrant on him, if ſhe had one, for he was going to</hi> Rawclyff, <hi>to conſult his Friends about it; and after ſome private Diſcourſe had betwixt the ſaid</hi> Edward <hi>and the ſaid</hi> Eliza<g ref="char:EOLhyphen"/>beth, <hi>the ſaid</hi> Elizabeth <hi>told this</hi> Deponent, <hi>that he ſaid, The ſaid</hi> Elizabeth <hi>might go down</hi> King's-Cawſey, <hi>and he would follow her, and Marry her: And this</hi> Deponent <hi>did ſee the ſaid</hi> Elizabeth <hi>go down</hi> King's-Cawſey; <hi>and a little after this</hi> Deponent <hi>ſaw the ſaid</hi> Edward <hi>alſo go down the</hi> King's-Cawſey; <hi>and after that, this</hi> Deponent <hi>did not ſee the ſaid</hi> Elizabeth, <hi>nor the ſaid Child till ſhe ſaw them lye dead.</hi>
+                  </p>
+                  <closer>
+                     <signed>Ann Hinde.</signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>n. Coron. Commit. praedict.</hi>
+                     </p>
+                     <closer>
+                        <dateline>
+                           <hi>Capt.</hi>
+                           <date>10. <hi>die</hi> Septembris 1690,</date>
+                        </dateline>
+                        <signed>
+                           <hi>By me</hi> W. Mauleverer.</signed>
+                     </closer>
+                  </postscript>
+               </div>
+               <div type="witness_account">
+                  <p>
+                     <hi>THE Examination of</hi> Edward Mangall, <hi>upon the</hi> Murder <hi>of</hi> Elizabeth John<g ref="char:EOLhyphen"/>ſon <hi>alias</hi> Ringroſe, <hi>taken before me</hi> William Mauleverer <hi>Gent. one of the</hi> Coroners <hi>of Our Soveraign Lord and Lady King</hi> William <hi>and Queen</hi> Mary, <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>THE ſaid</hi> Edward Mangall <hi>did confeſs, that he did</hi> Murder <hi>the ſaid</hi> Elizabeth Johnſon <hi>alias</hi> Ringroſe, <hi>upon the Fourth Day of</hi> September <hi>inſtant, in a</hi> Cloſe <hi>nigh to</hi> King's Cauſey, <hi>he being asked the Reaſon, ſaid the Devil put him upon it, appearing to him in a Flaſh of Lightning; but denied that he medled with</hi> William Johnſon <hi>alias</hi> Ringroſe <hi>the Child.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Taken the</hi>
+                        <date>10th <hi>of</hi> September 1690.</date>
+                     </dateline>
+                     <signed>
+                        <hi>By me</hi> W. Mauleverer, <hi>Coroner.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iſaac Cleave</hi> at the <hi>Star,</hi> next to <hi>Serjeants-Inn</hi> in <hi>Chancery-lane.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
